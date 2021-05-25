@@ -1,4 +1,4 @@
-# Paper-Seminar
+# Paper
 
 - *Continual Learning* (CL)
   - **Overcoming catastrophic forgetting in neural networks**
